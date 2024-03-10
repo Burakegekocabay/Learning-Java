@@ -3,7 +3,7 @@ Learning java with project based learning system.  (from beginner) <br>
 Try to solve question in Readme.MD file according to Algorithm. <br>
 Then go to Project and check your answer from source code.
 
-# <a href="https://github.com/Burakegekocabay/Learning-Java/"> 01 - Reaching the digits (Separate digits)</a>
+# <a href="https://github.com/Burakegekocabay/Learning-Java/tree/main/01-Reaching%20the%20digits"> 01 - Reaching the digits (Separate digits)</a>
 (10.03.2024) <h3>Algorithm</h2> 
 -Take 2-digit input with Scanner. <br>
 -Separate into digits <br>
