@@ -20,6 +20,24 @@ Write a program that converts a Fahrenheit degree to Celsius <br>
 -Use the mathematics expression to convert  <br> 
 -Print the Celsius  <br>
 <h3> Output </h3>
-Enter the Fahrenheit: 56(input)
+Enter the Fahrenheit: 56(input) <br>
 56 Fahrenheit equals 13.333 Celsius
+<br>
+
+# 03 - Usage of If-else 
+(11.03.2024) <h3>Algorithm</h2>
+The program randomly generates two single-digit integers 
+number1 and number2 and displays a question such as “What is 7 + 
+9?” to the student. After the student types the answer, the program 
+displays a message to indicate whether the answer is true or false
+<br>
+<h3> Output </h3>
+What is 5 + 1? (random) <br>
+6(input)<br>
+Answer is True. <br>
+///////<br>
+What is 6+1? (random)<br>
+9(input)<br>
+Answer is False.
+
 
