@@ -20,6 +20,6 @@ Write a program that converts a Fahrenheit degree to Celsius <br>
 -Use the mathematics expression to convert  <br> 
 -Print the Celsius  <br>
 <h3> Output </h3>
-Enter the Fahrenheit: 56(input)
+Enter the Fahrenheit: 56(input) <br>
 56 Fahrenheit equals 13.333 Celsius
 
