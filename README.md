@@ -24,7 +24,7 @@ Enter the Fahrenheit: 56(input) <br>
 56 Fahrenheit equals 13.333 Celsius
 <br>
 
-# 03 - Usage of If-else 
+# <a href="https://github.com/Burakegekocabay/Learning-Java/tree/main/03-Usage%20of%20If-else"> 03 - Usage of If-else </a>
  <h3>Algorithm</h2>
 The program randomly generates two single-digit integers 
 number1 and number2 and displays a question such as “What is 7 + 
@@ -41,7 +41,7 @@ What is 6+1? (random)<br>
 Answer is False.
 <br>
 
-# 04 -  Leap Year(Usage of Operators : && || )
+#  04 -  Leap Year(Usage of Operators : && || ) 
  <h3>Algorithm</h2>
 This program first prompts the user to enter a year as an int value 
 and checks if it is a leap year. <br>
