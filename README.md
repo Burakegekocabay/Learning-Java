@@ -68,7 +68,7 @@ I'm learning java <br>
 I'm learning java 
 <br>
 
-# 06 - Guess Number(Usage of While Loop) 
+# 06 - Guess Number(Usage of Do-While Loop) 
 <h3>Algorithm</h2>
 Write a program that randomly generates an integer between 0 and 
 100, inclusive. The program prompts the user to enter a number 
