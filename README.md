@@ -115,4 +115,17 @@ If a number is not divisible by any number preceding it (except 1) without remai
 101 103 107 109 113 127 131 137 139 149 <br>
 151 157 163 167 173 179 181 191 193 197 <br>
 
-
+# 09 - Usage of Arrays
+<h3>Algorithm</h3>
+Read 50 numbers, store it in an integer array. compute their average, 
+and find out how many numbers are above the average.
+<h3> Output </h3>
+Number 1: 24(input) <br>
+Number 2: 56(input) <br>
+. <br>
+. <br>
+Number 50: 72(input)<br>
+<br>
+Average: 62.2 <br>
+15 number are above the average.
+<br>
