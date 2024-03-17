@@ -41,7 +41,7 @@ What is 6+1? (random)<br>
 Answer is False.
 <br>
 
-#  04 -  Leap Year(Usage of Operators : && || ) 
+# <a href="https://github.com/Burakegekocabay/Learning-Java/tree/main/04-Leap%20Year"> 04 -  Leap Year(Usage of Operators : && || ) </a>
  <h3>Algorithm</h2>
 This program first prompts the user to enter a year as an int value 
 and checks if it is a leap year. <br>
@@ -56,7 +56,7 @@ Enter a year: 2000(input)<br>
 2000 is not a leap year.
 <br>
 
-# 05 - Usage of For Loop
+# <a href="https://github.com/Burakegekocabay/Learning-Java/tree/main/05-Usage%20of%20For%20Loop"> 05 - Usage of For Loop </a>
  <h3>Algorithm</h2>
 Type 100 times "I'm learning java" with for loop. <br>
 <h3> Output </h3>
@@ -68,7 +68,7 @@ I'm learning java <br>
 I'm learning java 
 <br>
 
-# 06 - Guess Number(Usage of Do-While Loop) 
+#<a href="https://github.com/Burakegekocabay/Learning-Java/tree/main/06-Guess%20Number"> 06 - Guess Number(Usage of Do-While Loop)</a> 
 <h3>Algorithm</h2>
 Write a program that randomly generates an integer between 0 and 
 100, inclusive. The program prompts the user to enter a number 
