@@ -112,10 +112,11 @@ If a number is not divisible by any number preceding it (except 1) without remai
 2 3 5 7 11 13 17 19 23 29 <br>
 31 37 41 43 47 53 59 61 67 71 <br>
 73 79 83 89 97 101 103 107 109 113 <br>
-101 103 107 109 113 127 131 137 139 149 <br>
-151 157 163 167 173 179 181 191 193 197 <br>
+127 131 137 139 149 151 157 163 167 173 <br>
+179 181 191 193 197 199 211 223 227 229
+<br>
 
-# 09 - Usage of Arrays
+# <a href="https://github.com/Burakegekocabay/Learning-Java/tree/main/08-Prime%20Numbers">09 - Usage of Arrays </a>
 <h3>Algorithm</h3>
 Read 50 numbers, store it in an integer array. compute their average, 
 and find out how many numbers are above the average.
