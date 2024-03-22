@@ -100,7 +100,7 @@ Enter a word: test(input) <br>
 test is not a palindrome word.
 <br>
 
-# 08 - Prime Numbers
+# <a href="https://github.com/Burakegekocabay/Learning-Java/tree/main/08-Prime%20Numbers"> 08 - Prime Numbers </a>
 <h3>Algorithm</h3>
 Write a program that displays the first 50 prime numbers 
 in five lines, each of which contains 10 numbers. An integer greater 
@@ -116,7 +116,7 @@ If a number is not divisible by any number preceding it (except 1) without remai
 179 181 191 193 197 199 211 223 227 229
 <br>
 
-# <a href="https://github.com/Burakegekocabay/Learning-Java/tree/main/08-Prime%20Numbers">09 - Usage of Arrays </a>
+# 09 - Usage of Arrays
 <h3>Algorithm</h3>
 Read 50 numbers, store it in an integer array. compute their average, 
 and find out how many numbers are above the average.
