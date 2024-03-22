@@ -84,9 +84,9 @@ go up <br>
 go down <br>
 75(input) <br>
 You found number.
-<br>
+<br>   
 
-# 07 - Palindrome Words 
+# <a href= "https://github.com/Burakegekocabay/Learning-Java/tree/main/07-%20Palindrome%20Words"> 07 - Palindrome Words </a> 
 <h3>Algorithm</h3>
 A string is a palindrome if it reads the same forward and backward. The words “mom,” “dad,” and “noon,” for instance, are all palindromes.
 <br>
