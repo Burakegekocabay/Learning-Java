@@ -143,7 +143,7 @@ Randomly generate an exam result <br>
 Ramdomly generate a key <br>
 Evaluate the exam and list the results on the screen. 
 <h3> Output </h3>
-Student 1 : 70 Correct, 27 Incorect, 3 Empty answers=61 points
-Student 2 : 72 Correct, 26 Incorect, 2 Empty answers=63,3 points
+Student 1 : 70 Correct, 27 Incorect, 3 Empty answers=61 points <br>
+Student 2 : 72 Correct, 26 Incorect, 2 Empty answers=63,3 points <br>
 Student 3 : 62 Correct, 19 Incorect, 19 Empty answers=55,6 points
 <br>
