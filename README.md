@@ -130,3 +130,20 @@ Number 50: 72(input)<br>
 Average: 62.2 <br>
 15 number are above the average.
 <br>
+
+# 10 - Exam Evaluation System (2 Dimentional Array)
+<h3>Algorithm</h3>
+Class contains 50 students <br>
+Exam Contains 100 questions <br>
+Each questions contains 4 choices (as ‘A’, ‘B’,’C’ and ‘D’) and empty answer (if not filled)  <br>
+(all of them have same probability) <br>
+Each question equal 1 point and 3 incorrect answer delete 1 point from total grade <br>
+<br>
+Randomly generate an exam result <br>
+Ramdomly generate a key <br>
+Evaluate the exam and list the results on the screen. 
+<h3> Output </h3>
+Student 1 : 70 Correct, 27 Incorect, 3 Empty answers=61 points
+Student 2 : 72 Correct, 26 Incorect, 2 Empty answers=63,3 points
+Student 3 : 62 Correct, 19 Incorect, 19 Empty answers=55,6 points
+<br>
