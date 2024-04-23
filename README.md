@@ -116,7 +116,7 @@ If a number is not divisible by any number preceding it (except 1) without remai
 179 181 191 193 197 199 211 223 227 229
 <br>
 
-# 09 - Usage of Arrays
+# <a href="https://github.com/Burakegekocabay/Learning-Java/tree/main/09-Calculating%20Average"> 09 - Usage of Arrays
 <h3>Algorithm</h3>
 Read 50 numbers, store it in an integer array. compute their average, 
 and find out how many numbers are above the average.
@@ -131,19 +131,19 @@ Average: 62.2 <br>
 15 number are above the average.
 <br>
 
-# 10 - Exam Evaluation System (2 Dimentional Array)
+# <a href="https://github.com/Burakegekocabay/Learning-Java/tree/main/10-Exam%20Evaluation%20System"> 10 - Exam Evaluation System (2 Dimentional Array)
 <h3>Algorithm</h3>
 Class contains 50 students <br>
 Exam Contains 100 questions <br>
 Each questions contains 4 choices (as ‘A’, ‘B’,’C’ and ‘D’) and empty answer (if not filled)  <br>
 (all of them have same probability) <br>
-Each question equal 1 point and 3 incorrect answer delete 1 point from total grade <br>
+Each question equal 1 point and 4 incorrect answer delete 1 point from total grade <br>
 <br>
 Randomly generate an exam result <br>
 Ramdomly generate a key <br>
 Evaluate the exam and list the results on the screen. 
 <h3> Output </h3>
-Student 1 : 70 Correct, 27 Incorect, 3 Empty answers=61 points <br>
-Student 2 : 72 Correct, 26 Incorect, 2 Empty answers=63,3 points <br>
-Student 3 : 62 Correct, 19 Incorect, 19 Empty answers=55,6 points
+Student 1 : 70 Correct, 28 Incorect, 2 Empty answers=63 points <br>
+Student 2 : 71 Correct, 29 Incorect, 0 Empty answers=63,75 points <br>
+Student 3 : 62 Correct, 3 Incorect, 35 Empty answers=61,25 points
 <br>
