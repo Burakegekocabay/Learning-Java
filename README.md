@@ -147,3 +147,38 @@ Student 1 : 70 Correct, 28 Incorect, 2 Empty answers=63 points <br>
 Student 2 : 71 Correct, 29 Incorect, 0 Empty answers=63,75 points <br>
 Student 3 : 62 Correct, 3 Incorect, 35 Empty answers=61,25 points
 <br>
+
+# 11 - Positive Divisors(Usage of ArrayList)
+<h3>Algorithm</h3>
+Write a function which takes a positive integer and returns all its 
+positive divisors.
+<br>
+Create a ArrayList <br>
+While x < number <br>
+if number can divisible by x <br>
+add ArrayList <br>
+<h3> Output </h3>
+Enter a number : 20(input)<br>
+divisors(20) = [1, 2, 4, 5, 10, 20]
+<br>
+
+# 12 - Reverse List(Usage of LinkedList)
+<h3>Algorithm</h3>
+write a Java method which reverse this LinkedList : [1,2,3,4,5]
+<br>
+Take first element <br>
+put first element to last index <br>
+continue until list done. <br>
+<h3> Output </h3>
+Before : [1,2,3,4,5] <br>
+After  : [5,4,3,2,1]
+<br>
+
+# 13 - Characters of Strings(Usage of HashSet)
+<h3>Algorithm</h3>
+Write a Java program, which reads a String from the Keyboard and display the characters used in this String in the screen.
+<br>
+<h3> Output </h3>
+Enter a string: HELLLOOO(input)<br>
+[H,E,L,O]
+<br>
