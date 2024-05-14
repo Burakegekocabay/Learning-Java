@@ -182,3 +182,37 @@ Write a Java program, which reads a String from the Keyboard and display the cha
 Enter a string: HELLLOOO(input)<br>
 [E,H,L,O] (no order)
 <br>
+
+# 14 - Letter Frequency (Usage of HashMap)
+<h3>Algorithm</h3>
+Write a Java program, which reads a String from the Keyboard and display the characters and their number of usage in the screen.
+<h3> Output </h3>
+Enter a string : HELLO WORLD(input) <br>
+L=3 ,E=1, H=1, O=2 ,R=1 ,D=1 , =1 , W=1 (no specific order)
+<br>
+
+# 15 - Parenthesis Balance() (Usage of Stack)
+<h3>Algorithm</h3>
+Write a function which takes a string and checks if all of the parentheses (if 
+any) in it are balanced. <br>
+if char is '(' add to stack <br>
+if char is ')  remove from stack<br>
+so if stack empty it means balanced
+<h3> Output </h3>
+"he()l()lo" = true <br>
+"(yes)(i)am(ba(lan)ced)" = true <br>
+"((something)" = false <br>
+"no parenthesis" = true <br>
+"somet(hing" = false <br>
+<br>
+
+# 16 - is Circle Intersect ? (Usage of Class / OOP)
+<h3>Algorithm</h3>
+Write a function which takes two circles and returns true iff they intersect with 
+each other
+<br>
+Create a Point class with has (double x , y;) variables <br>
+Create a Circle class with has (Point origin;) and (double radius;) variable <br>
+(means circle1.origin = point1 value) <br>
+
+
