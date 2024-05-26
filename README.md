@@ -226,10 +226,11 @@ Enter: point1.x =3(input) Enter point1.y =4(input) Circle1.radius=2(input)
 Enter: point2.x =7 Enter point2.y =5(input) Circle2.radius= 8 (input)
 is Circle Intersect : True.
 
-# 17 - Creating a txt file (Printwriter and FileOutputStream)
+# 17 - Creating a txt file (Printwriter and FileWriter)
 <h3>Problem</h3>
 Create a output.txt file with usage of Printwriter and FileOutputStream <br>
-Write  a sentences to txt file 3 times with for loop 
+Write  a sentences to txt file 3 times with for loop <br>
+(Don't forget try-catch block)
 <h3> Output.txt </h3>
 1-Hello World.<br>
 2-Hello World.<br>
