@@ -277,3 +277,10 @@ Write a Java program that deletes a folder and all of its contents,
 including subfolders and files. This program uses Java's File class to 
 handle file operations.
 <br>
+
+# Introduction to JAVAFX (GUI) 
+Download JAVAFX and make configuration to your VSCODE/INTELLIJ/etc.<br>
+Open a new JAVAFX project from your code editor. <br>
+Make sure your Main class extends from Application <br>
+Do not forget import javafx tools.
+<br>
