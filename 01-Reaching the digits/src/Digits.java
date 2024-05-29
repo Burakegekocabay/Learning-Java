@@ -9,6 +9,6 @@ public class Digits
         int digit1=number/10;
         int digit2=number%10;
         System.out.println("The digits are "+digit1+" and "+digit2);
-
+        sc.close();
     } 
 }
