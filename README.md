@@ -187,7 +187,7 @@ Enter a string: HELLLOOO(input)<br>
 [E,H,L,O] (no order)
 <br>
 
-# 14 - Letter Frequency (Usage of HashMap)
+# <a href="https://github.com/Burakegekocabay/Learning-Java/tree/main/14%20-%20Letter%20Frequency"> 14 - Letter Frequency (Usage of HashMap)
 <h3>Problem</h3>
 Write a Java program, which reads a String from the Keyboard and display the characters and their number of usage in the screen.
 <h3> Output </h3>
