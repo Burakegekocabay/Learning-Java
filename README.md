@@ -195,7 +195,7 @@ Enter a string : HELLO WORLD(input) <br>
 L=3 ,E=1, H=1, O=2 ,R=1 ,D=1 , =1 , W=1 (no specific order)
 <br>
 
-# 15 - Parenthesis Balance() (Usage of Stack)
+# <a href="https://github.com/Burakegekocabay/Learning-Java/tree/main/15%20-%20Parenthesis%20Balance()"> 15 - Parenthesis Balance() (Usage of Stack)
 <h3>Problem</h3>
 Write a function which takes a string and checks if all of the parentheses (if 
 any) in it are balanced. 
