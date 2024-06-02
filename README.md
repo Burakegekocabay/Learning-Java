@@ -278,7 +278,7 @@ including subfolders and files. This program uses Java's File class to
 handle file operations.
 <br>
 
-<h2> Introduction to JAVAFX (GUI)</h2>
+<h1> Introduction to JAVAFX (GUI)</h1>
 Download JAVAFX and make configuration to your VSCODE/INTELLIJ/etc.<br>
 Open a new JAVAFX project from your code editor. <br>
 Make sure your Main class extends from Application <br>
