@@ -226,7 +226,7 @@ Enter: point1.x =3(input) Enter point1.y =4(input) Circle1.radius=2(input)
 Enter: point2.x =7 Enter point2.y =5(input) Circle2.radius= 8 (input)
 is Circle Intersect : True.
 
-# 17 - Creating a txt file (Printwriter and FileWriter)
+# <a href="https://github.com/Burakegekocabay/Learning-Java/tree/main/17%20-%20Creating%20txt%20file"> 17 - Creating a txt file (Printwriter and FileWriter)
 <h3>Problem</h3>
 Create a output.txt file with usage of Printwriter and FileOutputStream <br>
 Write  a sentences to txt file 3 times with for loop <br>
