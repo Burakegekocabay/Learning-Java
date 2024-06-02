@@ -288,11 +288,17 @@ ProjectName -> src -> main -> java -> com.example(package) -> main class
 
 # JAVAFX-1 : Beginning
 <h3>Problem</h3>
-Install and Run the code <a href=""> (Click) </a>
+Download and Run the code <a href=""> (Click) </a>
 <br>
 
 # JAVAFX-2 : Button
 <h3>Problem</h3>
-Make a button named: "Say Hello GUI" <br>
-When pressed the button print HELLO GUI to console.
+Make a button named: "Say : Hello GUI" <br>
+When pressed the button print "HELLO GUI" to console.
+<br>
+
+# JAVAFX-3 : Basic Login Form
+<h3>Problem</h3>
+Make a login form require username and password and sign button <br>
+When pressed to button show a text : Log in succesfull.
 <br>
