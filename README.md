@@ -288,7 +288,7 @@ ProjectName -> src -> main -> java -> com.example(package) -> main class
 
 # JAVAFX-1 : Beginning
 <h3>Problem</h3>
-Download and Run the code <a href=""> (Click) </a>
+Download and Run the code <a href="https://github.com/Burakegekocabay/Learning-Java/tree/main/fx1_beginning"> (Click) </a>
 <br>
 
 # JAVAFX-2 : Button
