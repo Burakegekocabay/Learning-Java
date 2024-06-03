@@ -237,7 +237,7 @@ Write  a sentences to txt file 3 times with for loop <br>
 3-Hello World.
 <br>
 
-# 18 - Reading from txt file(BufferedReader)
+# <a href="https://github.com/Burakegekocabay/Learning-Java/tree/main/18%20-%20Read%20from%20txt"> 18 - Reading from txt file(BufferedReader)
 <h3>Problem</h3>
 Open output.txt file with BufferedReader , read lines and print them to console <br>
 (output.txt file is a example file which created in Project 17)<br>
@@ -247,7 +247,7 @@ Open output.txt file with BufferedReader , read lines and print them to console 
 3-Hello World.
 <br>
 
-# 19 - Separating words in txt file(Usage of StringTokenizer)
+# <a href="https://github.com/Burakegekocabay/Learning-Java/tree/main/19%20-%20String%20tokenizer"> 19 - Separating words in txt file(Usage of StringTokenizer)
 <h3>Problem</h3>
 Read the folloving values from a input.txt file (create it manually) 
 and get sum of these values
@@ -263,7 +263,7 @@ The sum of 3rd line: ... <br>
 Thu sum of 4th line: ...
 <br>
 
-# 20 - Getting Details of txt file
+# <a href="https://github.com/Burakegekocabay/Learning-Java/tree/main/20%20-%20File%20Details"> 20 - Getting Details of txt file
 <h3>Problem</h3>
 Write a simple Java program that lists some essential properties of a 
 file, including its length, whether it is readable, writable, executable, 
@@ -271,7 +271,7 @@ and when it was last modified. This program uses Java's File class to
 handle file operations.
 <br>
 
-# 21 - Deleting a folder (completely)
+# <a href="https://github.com/Burakegekocabay/Learning-Java/tree/main/21%20-%20Delete%20a%20folder"> 21 - Deleting a folder (completely)
 <h3>Problem</h3>
 Write a Java method that deletes a folder and all of its contents, 
 including subfolders and files. This program uses Java's File class to 
