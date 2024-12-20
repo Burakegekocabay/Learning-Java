@@ -277,7 +277,8 @@ Write a Java method that deletes a folder and all of its contents,
 including subfolders and files. This program uses Java's File class to 
 handle file operations.
 <br>
-
+<br>
+<br>
 <h1> Introduction to JAVAFX (GUI)</h1>
 Download JAVAFX and make configuration to your VSCODE/INTELLIJ/etc.<br>
 Open a new JAVAFX project from your code editor. <br>
@@ -308,3 +309,8 @@ When pressed to button show a text : Log in succesfull.
 Make a basic calculator which have 4 button (+,-,*,/) <br>
 When pressed a button Calculate and show result in textField 
 <br>
+<br>
+<br>
+<h1> Introduction to JAVA OOP(Object Oriented Programming)</h1>
+This section contains tasks related to JAVA OOP. Please read the task first, then try to complete the assignments and verify your solutions by checking the source code.<br>
+
