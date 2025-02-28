@@ -310,7 +310,3 @@ Make a basic calculator which have 4 button (+,-,*,/) <br>
 When pressed a button Calculate and show result in textField 
 <br>
 <br>
-<br>
-<h1> Introduction to JAVA OOP(Object Oriented Programming)</h1>
-This section contains tasks related to JAVA OOP. Please read the task first, then try to complete the assignments and verify your solutions by checking the source code.<br>
-
