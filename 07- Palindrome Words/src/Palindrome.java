@@ -21,7 +21,7 @@ public class Palindrome
 
     public static boolean isPalindrome(String input)
     {
-        int len = input.length();;
+        int len = input.length();
         int repeat=len/2;
         if(len==1)
             return false;
